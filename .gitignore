@@ -1,0 +1,9 @@
+# IDEA directories
+.idea/
+.vs/
+
+# Windows
+Thumbs.db
+
+# GIT Merge conflict back-up files
+*.orig
